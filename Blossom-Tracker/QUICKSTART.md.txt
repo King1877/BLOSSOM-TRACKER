@@ -1,0 +1,93 @@
+# ⚡ Quick Start (5 Minutes)
+
+Get your app live in 5 minutes!
+
+## 📥 What to Upload
+
+Copy these files to your GitHub repository:
+
+```
+✅ index.html           (Main app file)
+✅ manifest.json        (PWA config)
+✅ README.md            (Documentation)
+✅ LICENSE              (MIT License)
+✅ .gitignore           (Git ignore rules)
+✅ ICON-GUIDE.md        (How to make icons)
+✅ DEPLOYMENT-GUIDE.md  (Detailed setup)
+⏸️ icon-192.png         (Optional - add later)
+⏸️ icon-512.png         (Optional - add later)
+```
+
+## 🚀 3-Step Deploy
+
+### 1️⃣ Create Repository
+- Go to https://github.com/new
+- Name: `womens-cycle-tracker`
+- Click "Create repository"
+
+### 2️⃣ Upload Files
+- Click "Upload files"
+- Drag all files (except icons if not ready)
+- Click "Commit changes"
+
+### 3️⃣ Enable GitHub Pages
+- Go to Settings → Pages
+- Source: Branch "main" → Folder "/ (root)"
+- Click "Save"
+
+**Done!** Your app is at:
+`https://yourusername.github.io/womens-cycle-tracker/`
+
+## 📱 Install on Phone
+
+### iPhone
+1. Open in Safari
+2. Tap Share → "Add to Home Screen"
+
+### Android
+1. Open in Chrome
+2. Menu → "Add to Home Screen"
+
+## 🎨 Add Icons Later
+
+Icons make it look professional, but they're optional.
+
+**Without icons**: App works perfectly, just no custom icon when installed  
+**With icons**: Professional app icon on home screen
+
+See `ICON-GUIDE.md` for easy methods to create them.
+
+## ✅ Test Checklist
+
+Visit your URL and test:
+- [ ] Calendar shows
+- [ ] Can mark period days (right-click)
+- [ ] Can add notes
+- [ ] Settings save
+- [ ] Works on mobile
+
+## 🎯 Next Steps
+
+1. ⭐ **Star your repository** (top right)
+2. 📱 **Install on your phone**
+3. 🌸 **Start tracking!**
+4. 🎨 **Add icons** when ready
+5. 📤 **Share with friends**
+
+## 💡 Pro Tips
+
+- **Update README**: Replace "yourusername" with your actual username
+- **Custom domain**: Optional, but makes URL prettier
+- **Keep private data safe**: Never commit exported data files
+- **Update app**: Just edit files and commit changes
+
+## 🆘 Need Help?
+
+1. **Read**: DEPLOYMENT-GUIDE.md (detailed instructions)
+2. **Icons**: ICON-GUIDE.md (how to create)
+3. **Issues**: Open a GitHub issue
+4. **Test locally**: Just open index.html in browser
+
+---
+
+**That's it!** You now have a live menstrual cycle tracking app! 🎉
